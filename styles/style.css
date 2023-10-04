@@ -6,3 +6,6 @@ body {
 h1 {
     color: cyan;
 }
+p{
+    border-left: solid 1px black;
+}
